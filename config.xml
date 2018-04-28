@@ -10,9 +10,9 @@
     <content src="index.html" />
     <access origin="*" />
 
-    <icon src="img/escuela_ldpi.png" gap:density="ldpi" gap:platform="android" />
-	<icon src="img/escuela_mdpi.png" gap:density="mdpi" gap:platform="android" />
-	<icon src="img/escuela_hdpi.png" gap:density="hdpi" gap:platform="android" />
-	<icon src="img/escuela_xhdpi.png" gap:density="xhdpi" gap:platform="android" />
+    <icon src="img/logofimaz1.png" gap:density="ldpi" gap:platform="android" />
+	<icon src="img/logofimaz2.png" gap:density="mdpi" gap:platform="android" />
+	<icon src="img/logofimaz3.png" gap:density="hdpi" gap:platform="android" />
+	<icon src="img/logofimaz4.png" gap:density="xhdpi" gap:platform="android" />
 
 </widget>
